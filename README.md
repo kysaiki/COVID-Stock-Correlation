@@ -6,3 +6,5 @@ Users input a stock ticker symbol and a state abbreviation and the backend will 
 Initially, the website was hosted on AWS EC2 and used AWS S3 for storage, but later was taken down due to hosting costs. 
 
 To run the app, you must install all libraries shown in data.py.  the python flask file needs to be started first to ensure the server works, but a major change needs to be done in the flask code, which queries AWS S3 (no longer used).  You can change the directory to be a local directory instead for both the writing data and reading data portions.
+
+![Sample Correlation image](https://github.com/kysaiki/COVID-Stock-Correlation/issues/1#issue-1626251410 "Sample Correlation Image")
